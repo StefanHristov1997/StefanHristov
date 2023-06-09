@@ -1,4 +1,4 @@
-### Hi, I am Stefan Hristov! 👋
+### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.
 
 ### GitHub Stats
