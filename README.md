@@ -1,7 +1,8 @@
 ### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.  
 
-![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/819f64b6-7b29-4f11-9c6e-e1c327486d7b)
+![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/819f64b6-7b29-4f11-9c6e-e1c327486d7b) ![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/54b81b6e-1a98-46da-a2d3-128de4c87f30)
+
 
 
 
