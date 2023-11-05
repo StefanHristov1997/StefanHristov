@@ -1,11 +1,6 @@
 ### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.  
 
-![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/819f64b6-7b29-4f11-9c6e-e1c327486d7b) ![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/54b81b6e-1a98-46da-a2d3-128de4c87f30)
-
-
-
-
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stefan.hristov.336/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/s_hristov_/?hl=en)
 ### GitHub Stats
