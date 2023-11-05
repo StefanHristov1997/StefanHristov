@@ -2,8 +2,6 @@
 I am currently studying software engineering.  
 
 ### You can contact with me at:
-⬇️ 
-
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stefan.hristov.336/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/s_hristov_/?hl=en)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :arrow_right: :arrow_right: shristov16@e-dnrs.org
