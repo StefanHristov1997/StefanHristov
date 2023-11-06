@@ -1,5 +1,5 @@
 # Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
-I am currently studying software engineering.  
+I am currently studying software engineering. 💻💻
 
 ### My achievements so far
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/1062ef78-1bd8-4d99-8422-7212305976a8" width="250" height="400" />
