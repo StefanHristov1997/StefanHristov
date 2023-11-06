@@ -1,6 +1,6 @@
 ### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.  
-<img src="https://softuni.bg/certificates/details/188653/f45d247c" width="200" height="400" />
+<img src="https://softuni.bg/certificates/details/188653/f45d247c" width="200" height="400"/>
 
 
 ### You can contact with me at:
