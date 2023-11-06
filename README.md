@@ -1,6 +1,6 @@
 ### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.  
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="file:///C:/Users/Home/Documents/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/Java%20Advanced%20-%20September%202023%20-%20Certificate.pdf" width="200" height="400" />
+<img src="file:///C:/Users/Home/Documents/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/Java%20Advanced%20-%20September%202023%20-%20Certificate.pdf" data-canonical- width="200" height="400" />
 
 
 ### You can contact with me at:
