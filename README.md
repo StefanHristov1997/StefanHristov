@@ -1,5 +1,7 @@
 ### Hi, I am Stefan Hristov! 👋 👨‍🎓 👨‍🎓
 I am currently studying software engineering.  
+![image](https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/e923812f-1dfb-4c2f-8457-7dcc7d4b1632)
+
 
 ### You can contact with me at:
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/stefan.hristov.336/) 
