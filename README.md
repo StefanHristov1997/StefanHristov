@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stefan Hristov</h1>
 <h3 align="center">I am currently studying software engineering.</h3>
 
+<h3 My Achivments
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanhristov1997" alt="stefanhristov1997" /></a> </p>
 
 - 📫 How to reach me **shristov16@e-dnrs.org**
