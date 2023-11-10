@@ -7,8 +7,6 @@
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/3de9447f-c3e5-47a5-964d-9c492b9d4a5c" width="200" height="300" />
 <img src = "https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" weidth = "200" height = "300" />
                                                                                                                                                 
-- 📫 How to reach me **shristov16@e-dnrs.org**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/stefan-hristov-5a2a36299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan hristov" height="30" width="40" /></a>
