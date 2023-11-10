@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor's degree from University of National and World Economy.<br>Two years of experience as a technical assistant operational control.<br>I am currently studying software engineering at Software University.<br>I am interested in learning new things related to technology.<br>I love football, fitness and good company.
+👨‍🎓 Bachelor's degree from University of National and World Economy.<br> 👨‍💼 Two years of experience as a technical assistant operational control. 💻<br>I am currently studying software engineering at Software University.🕵️<br>I am interested in learning new things related to technology.🏈🧑‍🤝‍🧑<br>I love football, fitness and good company.
 
 
 ## 🌐 Socials:
