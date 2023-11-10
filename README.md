@@ -1,9 +1,9 @@
 # 💫 About Me:
 💻 <em> <strong> I am currently studying software engineering at Software University. </strong> </em><br>
-👨‍🎓 <em> Bachelor's degree from University of National and World Economy. </em> <br>
-👨‍💼 <em> Two years of experience as a Technical Assistant - Operational control. </em> <br>
-🕵️ <em> I am interested in learning new things related to technology. </em> <br>
-🧑‍🤝‍🧑 <em>I love football, fitness and good company. </em> <br>
+👨‍🎓 <em> <strong>Bachelor's degree from University of National and World Economy.</strong> </em> <br>
+👨‍💼 <em> <strong> Two years of experience as a Technical Assistant - Operational control.</strong> </em> <br>
+🕵️ <em> <strong> I am interested in learning new things related to technology. /strong> </em> <br>
+🧑‍🤝‍🧑 <em> <strong>I love football, fitness and good company. </strong> </em> <br>
 
 ### 🥳 My achievements:
  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="200" height="300" />
