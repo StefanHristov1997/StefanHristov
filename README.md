@@ -7,6 +7,9 @@
 
 ### 🥳 My achievements
  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="200" height="300" />
+ <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/3de9447f-c3e5-47a5-964d-9c492b9d4a5c" width="200" height="300" />
+ <img src = "https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" weidth = "200" height = "300" />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/stefan.hristov.336?sk=wall&notif_id=1670657194203488&notif_t=wall&ref=notif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_hristov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-hristov-5a2a36299/) 
