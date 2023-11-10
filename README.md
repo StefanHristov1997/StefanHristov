@@ -3,7 +3,7 @@ Bachelor's degree from University of National and World Economy.<br>Two years of
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Stefan Hristov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_hristov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Stefan Hristov) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/stefan.hristov.336?sk=wall&notif_id=1670657194203488&notif_t=wall&ref=notif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_hristov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-hristov-5a2a36299/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StefanHristov1997&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StefanHristov1997&theme=monokai&hide_border=false)<br/>
