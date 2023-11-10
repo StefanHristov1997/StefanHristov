@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 <em> I am currently studying software engineering at Software University.</em><br>
+💻 <em> <strong> I am currently studying software engineering at Software University. </strong> </em><br>
 👨‍🎓 <em> Bachelor's degree from University of National and World Economy. </em> <br>
 👨‍💼 <em> Two years of experience as a Technical Assistant - Operational control. </em> <br>
 🕵️ <em> I am interested in learning new things related to technology. </em> <br>
