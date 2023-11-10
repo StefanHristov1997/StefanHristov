@@ -5,7 +5,7 @@
 🕵️ I am interested in learning new things related to technology. <br>
 🧑‍🤝‍🧑 I love football, fitness and good company. <br>
 
-### My achievements
+### 🥳 My achievements
  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="200" height="300" />
 
 ## 🌐 Socials:
