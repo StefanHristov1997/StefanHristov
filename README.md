@@ -6,6 +6,7 @@
 ❤️ <em> <strong>I love football, fitness and good company. </strong> </em> <br>
 
 ### 🥳 My achievements:
+<img src = "https://softuni.bg/certificates/details/195784/f304d6fc" width="200" height="300" />
  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="200" height="300" />
  <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/3de9447f-c3e5-47a5-964d-9c492b9d4a5c" width="200" height="300" />
  <img src = "https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" weidth = "200" height = "300" />
