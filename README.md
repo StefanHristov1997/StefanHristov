@@ -12,9 +12,10 @@
  <img src = "https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" weidth = "200" height = "300" />
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src = "https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/cbe314eb-b70b-4737-aa3e-7093af0a760a" width = "50" height = "50" />
 <img src = "https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/7b39b9b9-a0db-46d4-bcc9-037ee1f07013" width = "50" height = "50" />
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+
 
 
 
