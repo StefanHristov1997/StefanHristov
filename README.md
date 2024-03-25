@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://spring.io/projects/spring-data" alt="java" width="70" height="70"/>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/06a23294-456f-4158-84f0-3fc91d575b5a" alt = "spring" width="70" height="70"/>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/7b39b9b9-a0db-46d4-bcc9-037ee1f07013" alt="MySQL" width="70" height="70"/> 
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/5ba4cf23-875d-4130-9a17-cc4ffce3084d" alt="IntelliJ IDEA" width="70" height="70"/> 
 
