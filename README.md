@@ -12,11 +12,19 @@
 <a href="https://softuni.bg/certificates/details/202756/aa036a74">
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/84aea044-11d5-4226-a800-f282aa102123" alt="MySQL Certificate" width="130" height="200" />
 </a>
+<a href="https://softuni.bg/certificates/details/195784/f304d6fc">
+  <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/59b04347-9cf0-4b61-a2e2-aa30633b1b2d" alt="Java OOP Certificate" width="130" height="200" />
+</a>
+<a href="https://softuni.bg/certificates/details/188653/f45d247c">
+  <img src="https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb" alt="Java Advanced Certificate" width="130" height="200" />
+</a>
+<a href="https://softuni.bg/certificates/details/179923/a28f01ab">
+  <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/3de9447f-c3e5-47a5-964d-9c492b9d4a5c" alt="Java Fundamentals Certificate" width="130" height="200" />
+</a>
+<a href="https://softuni.bg/certificates/details/163770/fa4ce90b">
+  <img src="https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" alt="Programming in Basics with Java Certificate" weidth="130" height="200" />
+</a>
 
-<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/59b04347-9cf0-4b61-a2e2-aa30633b1b2d" alt="Java OOP Certificate" width="130" height="200" />
-<img src="https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb" alt="Java Advanced Certificate" width="130" height="200" />
-<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/3de9447f-c3e5-47a5-964d-9c492b9d4a5c" alt="Java Fundamentals Certificate" width="130" height="200" />
-<img src="https://github.com/StefanHristov1997/Programming_In_Basics_Course/assets/133797718/6b3b5f3f-ee4a-41d8-8ca4-48adfa47b84a" alt="Programming in Basics with Java Certificate" weidth="130" height="200" />
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/2a27dfd8-335e-4497-9010-d57adb80e964" alt="java" width="70" height="70"/>
