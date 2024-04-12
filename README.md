@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src ="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/4a7cc40b-0bcf-4068-8297-563d4d6df91c" width="20" height="20" /> <em> <strong> I am currently studying software engineering at Software University and I believe that with my efforts I will become a programmer someday.  </strong> </em> <br />
-👨‍💼 <em> <p style="font-size=larger"><strong> Two years of experience as a Technical Assistant - Operational control.</strong> </em> <br /> </p>
+👨‍💼 <em> <strong style="font-size=larger"> Two years of experience as a Technical Assistant - Operational control.</strong> </em> <br /> </p>
 👨‍🎓 <em> <strong>Bachelor's degree from University of National and World Economy.</strong> </em> <br />
 🕵️ <em> <strong> I am interested in Java and new things related to technology. </strong> </em> <br />
 ❤️ <em> <strong>I love football, fitness and good company. </strong> </em> <br />
