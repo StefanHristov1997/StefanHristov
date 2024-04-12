@@ -6,7 +6,8 @@
 ❤️ <em> <strong>I love football, fitness and good company. </strong> </em> <br />
 
 ### 🥳 My achievements:
-<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/960ca98b-0304-4d4a-8284-34f5f159acb6" alt="Spring Data Certificate" width="130" height="200" />
+<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/960ca98b-0304-4d4a-8284-34f5f159acb6" alt="Spring Data Certificate" width="130" height="200"
+  <a hreaf="https://softuni.bg/certificates/details/209326/64bb13fb"></a>/>
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/84aea044-11d5-4226-a800-f282aa102123" alt="MySQL Certificate" width="130" height="200" />
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/59b04347-9cf0-4b61-a2e2-aa30633b1b2d" alt="Java OOP Certificate" width="130" height="200" />
 <img src="https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb" alt="Java Advanced Certificate" width="130" height="200" />
