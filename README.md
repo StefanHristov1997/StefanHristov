@@ -29,8 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/2a27dfd8-335e-4497-9010-d57adb80e964" alt="java" width="70" height="70"/>
 <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/06a23294-456f-4158-84f0-3fc91d575b5a" alt="spring" width="70" height="70"/>
-<a>
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/332d328b-66a8-42b9-ad89-c6d6e31e5ebc" alt="javascript" width="70" height="70"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/332d328b-66a8-42b9-ad89-c6d6e31e5ebc" alt="javascript" width="70" height="70"></a>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/a68a4640-964a-4e8f-ad74-0abf7a843448" alt="HTML" widht="70" height="70" />
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/4054bb68-f4cd-4633-a754-ef18d6d5d52e" al="CSS" width="70" height="70" />
