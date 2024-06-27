@@ -1,8 +1,8 @@
 # 💫 About Me:
-<img src ="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/4a7cc40b-0bcf-4068-8297-563d4d6df91c" width="20" height="20" /> <em> <strong> I am currently studying software engineering at Software University and I believe that with my efforts I will become a programmer someday.  </strong> </em> <br />
+<img src ="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/4a7cc40b-0bcf-4068-8297-563d4d6df91c" width="20" height="20" /> <em> <strong> An ambitious and motivated Java Web Developer student with practical experience and knowledge in building web applications using Java and the Spring Framework.</strong> </em> <br />
 👨‍💼 <em> <strong>Two years of experience as a Technical Assistant - Operational control.</strong> </em> <br />
 👨‍🎓 <em> <strong>Bachelor's degree from University of National and World Economy.</strong> </em> <br />
-🕵️ <em> <strong>I am interested in Java and new things related to technology. </strong> </em> <br />
+🕵️ <em> <strong>I am interested in Web Development using Java and realted technologies. </strong> </em> <br />
 ❤️ <em> <strong>I love football, fitness and good company. </strong> </em> <br />
 
 ### 🥳 My achievements:
