@@ -6,6 +6,8 @@
 ❤️ <em> <strong>I love football, fitness and good company. </strong> </em> <br />
 
 ### 🥳 My achievements:
+<a href="https://softuni.bg/certificates/details/219351/da6a7944">
+<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/11bf6a5e-03a0-4459-8e4b-d9e71f34e3b7" alt="Spring Fundamentals Certificate" width="130" height="200"/>
 <a href="https://softuni.bg/certificates/details/209326/64bb13fb">
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/960ca98b-0304-4d4a-8284-34f5f159acb6" alt="Spring Data Certificate" width="130" height="200"/>
 </a>
