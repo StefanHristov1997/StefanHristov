@@ -7,9 +7,13 @@
 
 ### 🥳 My achievements:
 <a href="https://softuni.bg/certificates/details/219351/da6a7944">
-<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/804fa575-f550-4f58-909b-e9cbc2affc53" alt="Spring Fundamentals Certificate" width="130" height="200"/>
+   <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/804fa575-f550-4f58-909b-e9cbc2affc53" alt="Spring Fundamentals Certificate" width="130" height="200"/>
+</a>
+<a href="https://www.udemy.com/certificate/UC-1840f57a-22f1-4a5b-a6a9-f04724e63260/">
+  <img src="https://github.com/user-attachments/assets/1f5693c4-dd47-4aba-8bbf-591fcfbbc403" alt="Spring Fundamentals Certificate" width="130" height="200"/>
+</a>
 <a href="https://softuni.bg/certificates/details/209326/64bb13fb">
-<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/960ca98b-0304-4d4a-8284-34f5f159acb6" alt="Spring Data Certificate" width="130" height="200"/>
+   <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/960ca98b-0304-4d4a-8284-34f5f159acb6" alt="Spring Data Certificate" width="130" height="200"/>
 </a>
 <a href="https://softuni.bg/certificates/details/202756/aa036a74">
 <img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/84aea044-11d5-4226-a800-f282aa102123" alt="MySQL Certificate" width="130" height="200" />
